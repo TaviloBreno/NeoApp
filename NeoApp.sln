@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeoApi", "NeoApi\NeoApi.csproj", "{A7B8A569-3D78-4685-AD67-47DB1A5D85BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B8A569-3D78-4685-AD67-47DB1A5D85BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B8A569-3D78-4685-AD67-47DB1A5D85BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B8A569-3D78-4685-AD67-47DB1A5D85BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B8A569-3D78-4685-AD67-47DB1A5D85BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC90EA1-BDE7-4E79-8588-1B8E447B5215}
+	EndGlobalSection
+EndGlobal
